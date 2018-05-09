@@ -1,13 +1,13 @@
 # Site settings
 title: "Stakepool : a POSMiningCo Project"
-email: "toto@gmail.com"
+email: "stakepool@stakepool.co"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
+twitter_username: "@POSMiningCo"
 github_username:
-
+telegram: "FLO8Ag0Pr6YaHNd0CEBB-g"
 # Build settings
 markdown: kramdown
 
