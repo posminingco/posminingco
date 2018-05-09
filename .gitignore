@@ -1,3 +1,5 @@
+.bundle/
+vendor/
 .sass-cache/
 .jekyll-metadata
 .tweet-cache/
